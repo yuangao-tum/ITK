@@ -56,16 +56,11 @@ Es geht um ein Praktikum, das ich von 01.02.2023 bis 30.06.2023 bei ITK Engineer
    4. Kollisionsobjekt vermeiden
 
       ![image](https://github.com/yuan2023-control/Roboter/assets/89707029/9308c5d8-458a-405e-8f05-518f5d3cad26)
-      
- >> Optimierung und Simulation verschiedener Kraftregler (Simulationsvideo)
 
-    1. Impedanzregelung (Rehabilitation)
-    
-       https://github.com/yuan2023-control/Roboter/assets/89707029/6d7690a7-3070-462b-9e33-6bba5af79a75
-      
-    2. Admittanzregelung (Ultraschall)
-    
-       https://github.com/yuan2023-control/Roboter/assets/89707029/400001dc-1452-4055-a3c4-ef403a68edba
+>> Optimierung und Simulation verschiedener Kraftregler (Simulationsvideo)
+>https://github.com/yuan2023-control/Roboter/assets/89707029/6d7690a7-3070-462b-9e33-6bba5af79a75
+>https://github.com/yuan2023-control/Roboter/assets/89707029/400001dc-1452-4055-a3c4-ef403a68edba
+
 
 
 
